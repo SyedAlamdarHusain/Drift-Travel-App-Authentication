@@ -51,9 +51,15 @@ npm install pg-promise
 ```
 
 ```bash
-npm run dev
+npm install axios 
 ```
 
+## Environment 
+
+### Create a .env.local in your root directory
+
+
+## Run the program
 ```bash
 npm run dev
 ```
